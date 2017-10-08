@@ -9,10 +9,14 @@ Author : <wiflux@gmail.com> Dharminder Singh Negi
 
 
 ### Usage :
-1. Put a class or id on HTML element which has very long plain content. i.e
+1. Download and add script file into your project.
+`<script type="text/javascript" src="showMore.js"></script>`
+
+2. Put a class or id on HTML element which has very long plain content. i.e
 
 `<div class="largeContent"> ...... </div>`
 Use class for multiple large content elament 
+
 
 ```javascript
 <script type="text/javascript">
