@@ -4,7 +4,7 @@
 Author : <wiflux@gmail.com> Dharminder Singh Negi
 
 ### Project home:
-   https://github.com/wiflux/showMore
+   https://wiflux.github.io/showMore/
 
 
 
